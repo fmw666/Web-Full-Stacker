@@ -1,5 +1,13 @@
 ## Win10 下 虚拟机 VMware Workstation Pro 15.5.1 安装
 
+<br>
+<div align=right>
+    <b>这阶段您得掌握：</b>
+    <i>⭐1. 虚拟机的安装</i>
+    <i>2. 虚拟机的了解</i>
+</div>
+<br>
+
 &emsp;&emsp;**背景：** 2020 年 1 月 13 日，用户主流操作系统——Windows 10（默认 64bit），虚拟机 VMware Workstation Pro 最新版本——15.5.1
 
 ### 虚拟机 VMware Workstation Pro 介绍
@@ -8,7 +16,7 @@
 
 + 下载网址：[https://www.vmware.com/cn/products/workstation-pro/workstation-pro-evaluation.html](https://www.vmware.com/cn/products/workstation-pro/workstation-pro-evaluation.html)
 
-    > 已经基于当前最新版本（15.5.1）为您提前下载好了一份安装包：[点我直接开始下载](/files/VMware-workstation-full-15.5.1-15018445.exe)
+    > 已经基于当前最新版本（15.5.1）为您提前下载好了一份安装包：[点我跳转安装包地址](/files/VMware-workstation-full-15.5.1-15018445.exe) | [点我直接开始下载](https://github.com/fmw666/Web-Full-Stacker/raw/master/files/VMware-workstation-full-15.5.1-15018445.exe)
 
 + 公司背景：
 
