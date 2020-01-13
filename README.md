@@ -2,7 +2,7 @@
     <img src="pics/title.PNG" width=600 alt="Web 全栈工程师">
     <br><br>
     <img src="pics/cutline1.gif" width=800 alt="分割线">
-    <br>
+    <br><br>
 </div>
 
 &emsp;&emsp;***温馨提示：** 可能因为网速原因导致网页不能正常加载图片，请尝试刷新或等待片刻后再选择尝试。（图片内容不影响本页核心表达，只会对排版和用户视觉效果上存在影响！）* 
@@ -13,7 +13,7 @@
 
 + ### Linux 下开发环境的搭建
 
-    + *Win10* 下 虚拟机 `VMware Workstation Pro 15.5.1` 安装 [➡]()
+    + Win10 下 虚拟机 `VMware Workstation Pro 15.5.1` 安装 [➡]()
 
     + Linux 操作系统介绍&emsp;及&emsp;创建 `Ubuntu 18.04 LTS` 虚拟机 [➡]()
 
