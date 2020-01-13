@@ -5,15 +5,13 @@
 <div align=right>
     <b>⭐ 本阶段需掌握：</b><br>
     1. 虚拟机的安装<br>
-    2. 虚拟机的了解
+    2. 虚拟机的了解<br>
+    <br>
+    <a href="/README.md">返回主页 🔙</a>
 </div>
 <br>
 
 &emsp;&emsp;**背景：** 2020 年 1 月 13 日，用户主流操作系统——Windows 10（默认 64bit），虚拟机 VMware Workstation Pro 最新版本——15.5.1
-
-<div align=right>
-    <a href="/README.md">返回主页 🔙</a>
-</div>
 
 ### 虚拟机 VMware Workstation Pro 介绍
 
@@ -31,7 +29,7 @@
 
 + 简言之，我们可以用它来在我们的 Windows 操作系统上运行一套新的 Linux 系统。
 
-<div align=center>
+<div align=right>
     ————
 </div>
 
@@ -47,9 +45,11 @@
 
 1. 激活密钥：`ZC10K-8EF57-084QZ-VXYXE-ZF2XF`（若不行则尝试网上重新寻找）
 
-<div align=center>
-    <a href="#name">返回顶部 🔝</a>
+<br>
+<div align=right>
+    <a href="#head">返回顶部 🔝</a>
 </div>
+<br>
 
 <div align=center>
     - 完 -
