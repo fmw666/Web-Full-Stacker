@@ -7,7 +7,7 @@
     1. 虚拟机的安装<br>
     2. 虚拟机的了解<br>
     <br>
-    <a href="/README.md">返回主页 🔙</a>
+    <b>已经掌握？<a href="/README.md">返回主页 ↩</a></b>
 </div>
 <br>
 
@@ -47,7 +47,7 @@
 
 <br>
 <div align=right>
-    <a href="#head">返回顶部 🔝</a>
+    <a href="#head">返回顶部 ⬆</a>
 </div>
 <br>
 
