@@ -2,9 +2,12 @@
     <img src="pics/title.PNG" width=600 alt="Web 全栈工程师">
     <br><br>
     <img src="pics/cutline1.gif" width=800 alt="分割线">
+    <br>
 </div>
 
 &emsp;&emsp;***温馨提示：** 可能因为网速原因导致网页不能正常加载图片，请尝试刷新或等待片刻后再选择尝试。（图片内容不影响本页核心表达，只会对排版和用户视觉效果上存在影响！）* 
+
+<br>
 
 ## 📖 目录
 
