@@ -3,13 +3,13 @@
 
 - [x] 123
 
-- [] 46
+- [ ] 46
 
 <br>
 <div align=right>
     <h4>⭐ 本阶段需掌握：</h4>
-    1. xxx<br>
-    2. xxx<br>
+    <input type="checkbox" checked>1. xxx<br>
+    <input type="checkbox">2. xxx<br>
     ......<br>
     <br>
     <b>已经掌握？<a href="/README.md">返回主页 ↩</a></b>
