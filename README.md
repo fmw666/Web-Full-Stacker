@@ -18,11 +18,13 @@
 
     + Win10 下 虚拟机 `VMware Workstation Pro 15.5.1` 安装 [➡](/docs/1.%20Linux%20下开发环境的搭建/Win10%20下%20虚拟机%20VMware%20Workstation%20Pro%2015.5.1%20安装.md#head)
 
-    + ~~Linux 操作系统介绍&emsp;及&emsp;创建 `Ubuntu 18.04 LTS` 虚拟机 [➡]()~~
+    + Linux 操作系统介绍&emsp;及&emsp;创建 `Ubuntu 18.04 LTS` 虚拟机 [➡]()
 
     + ~~\* `Ubuntu 18.04 LTS` 主题美化（仿 Mac OS 苹果系统主题） [➡]()~~
 
     + ~~开发环境配置 1 —— 软件篇：`VS Code`、`Python 3.6+`、`virtualenv`、`MySQL` [➡]()~~
+
+<https://zhuanlan.zhihu.com/p/64080934>
 
     + ~~开发环境配置 2 —— 后端配置：`Django 3.0.1`、`djangorestframework` [➡]()~~
 

@@ -69,7 +69,15 @@
     sudo apt install chrome-gnome-shell
     ```
 
-+ 打开 [https://extensions.gnome.org/extension/19/user-themes/](https://extensions.gnome.org/extension/19/user-themes/)，开启asfjaegnvkadnvcascade
++ 打开 [https://extensions.gnome.org/extension/19/user-themes/](https://extensions.gnome.org/extension/19/user-themes/)，把右侧开关置为 `ON`（开启状态）
+
+<div align=right>
+    ——分隔符——
+</div>
+
+### 其他
+
++ 其他更多请自行网上查阅，良好美观的主题，只是为了给我们营造一个更舒心的开发环境，仅此。
 
 <br>
 <div align=right>
