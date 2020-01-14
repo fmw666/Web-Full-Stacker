@@ -14,35 +14,62 @@
 </div>
 <br>
 
-&emsp;&emsp;**背景：** 2020 年 1 月 14 日，Ubuntu 18.04 LTS 官方将提供长期免费的安全更新维护支持至 2023 年 4 月
+&emsp;&emsp;**背景：** 2020 年 1 月 14 日，Ubuntu 18.04 LTS 官方将提供长期免费的安全更新维护支持至 2023 年 4 月，虚拟机 VMware Workstation Pro 最新版本——15.5.1
 
 ### Linux 操作系统诞生
 
-+ 官方网站：[https://www.example.com/](https://www.example.com/)
++ Linux 操作系统由 Linus（林纳斯）在大学本科 21 岁时创建。
 
-+ 下载网址：[https://www.example.com/download/](https://www.example.com/download/)
++ Linux 项目源码：[https://github.com/torvalds/linux](https://github.com/torvalds/linux)
 
-    > 已经基于当前最新版本（15.x.x）为您提前下载好了一份安装包：[点我跳转安装包地址](/files/xxx.exe) | [点我直接开始下载](https://github.com/fmw666/Web-Full-Stacker/raw/master/files/xxx.exe)
-
-+ 公司背景：
-
-    + xxx
-
-    + > 以上来自 [百度词条](https://baike.baidu.com/item/xxx)
-
-+ ...
++ Linux 开源、免费、目前已有多个发行版本
 
 <div align=right>
     ——分隔符——
 </div>
 
-### 安装
+### Linux 操作系统类别
 
-1. xxx，x **加粗表示重要提示** xx。
+|发行版|描述|
+|:-----|:--|
+|Slackware|最早的 Linux 发行版中的一员，在 Linux 极客中比较流行|
+|Red Hat|主要用于 Internet 服务器的商业发行版|
+|Fedora|从 Red Hat 分离出的家用发行版|
+|Gentoo|为高级 Linux 用户设计的发行版，仅包含 Linux 源代码|
+|openSUSE|用于商用和家用的发行版|
+|**Debian**|在 Linux 专家和商用 Linux 产品中流行的发行版|
 
-1. xxxxxxx，xxx `这种表示名词或代码` xxx。
+> 摘自 《Linux命令行与shell脚本大全》(第3版)
 
-1. ......
+<div align=right>
+    ——分隔符——
+</div>
+
+### Ubuntu 操作系统介绍
+
++ 官方网站：[https://ubuntu.com/](https://ubuntu.com/)
+
+    > 官方中文站：[https://cn.ubuntu.com/](https://cn.ubuntu.com/)
+
++ Ubuntu 是桌面型 Linux Debian 的一种，基于 Gnome 桌面环境。总的来说，美观好用，现已发行到 19.10 版本。
+
+<div align=right>
+    ——分隔符——
+</div>
+
+### Ubuntu 操作系统下载
+
++ 官方下载地址：[https://ubuntu.com/download/desktop](https://ubuntu.com/download/desktop)
+
+    > 官方中文站下载地址：[https://cn.ubuntu.com/download](https://cn.ubuntu.com/download)
+
+<div align=right>
+    ——分隔符——
+</div>
+
+### 在 VMware Workstation Pro 中创建 Ubuntu 18.04 LTS 虚拟机
+
++ 直接看一篇 别人的 CSDN 博客吧，[外链](https://blog.csdn.net/stpeace/article/details/78598333)
 
 <br>
 <div align=right>
