@@ -44,9 +44,11 @@
 
     + ~~`DRF（Django REST framework）` 开发模式介绍 [➡]()~~
 
+    + ~~`DRF` 环境配置 及 `DRF` 开发流程详解 [➡]()~~
+
     + ~~//`MySQL、SQLite3、MongoDB、Redis` 数据库介绍 [➡]()~~
 
-    + ~~序列化 —— `序列化器 Serializer`  [➡]()~~
+    + ~~序列化 —— `序列化器 Serializer`  [➡](/docs/serializer)~~
 
 + ### 🗑 前端技术链介绍
 
