@@ -20,11 +20,11 @@
 
     + Linux 操作系统介绍&emsp;及&emsp;创建 `Ubuntu 18.04 LTS` 虚拟机 [➡]()
 
-    + ~~\* `Ubuntu 18.04 LTS` 主题美化（仿 Mac OS 苹果系统主题） [➡]()~~
+    + ~~\* `Ubuntu 18.04 LTS` 主题美化（仿 Mac OS 苹果系统主题） [➡](/docs/1.%20Linux%20下开发环境的搭建/Ubuntu%2018.04%20LTS%20主题美化（仿%20Mac%20OS%20苹果系统主题）.md#head)~~
 
     + ~~开发环境配置 1 —— 软件篇：`VS Code`、`Python 3.6+`、`virtualenv`、`MySQL` [➡]()~~
 
-<https://zhuanlan.zhihu.com/p/64080934>
+    <https://zhuanlan.zhihu.com/p/64080934>
 
     + ~~开发环境配置 2 —— 后端配置：`Django 3.0.1`、`djangorestframework` [➡]()~~
 
@@ -48,7 +48,7 @@
 
     + ~~//`MySQL、SQLite3、MongoDB、Redis` 数据库介绍 [➡]()~~
 
-    + ~~序列化 —— `序列化器 Serializer`  [➡](/docs/serializer)~~
+    + `Django REST framework` 中文开发文档（全） [➡]()
 
 + ### 🗑 前端技术链介绍
 
@@ -56,6 +56,8 @@
 
     + ~~`Vue.js` 及其全家桶介绍 [➡]()~~
 
-    + ~~通信方式 —— Axios.js 引入 [➡]()~~
+    + ~~`Vue-CLI 3` 中文开发文档（全） [➡]()~~
+
+    + ~~前后端通信方式 —— Axios.js [➡]()~~
 
 + ### 📁 DEMO 项目
