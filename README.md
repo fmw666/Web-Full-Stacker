@@ -36,7 +36,7 @@
 
     + ~~API 接口介绍（采用 `RESTful 接口规范/协议`） [➡]()~~
 
-    + ~~`RESTful API 接口规范/协议` [➡]()~~
+    + ~~`RESTful API 接口规范/协议` [➡](/docs/2.%20Web%20应用模式/RESTful%20API%20接口规范协议.md#head)~~
 
     + ~~Web 全栈前后端技术介绍 —— Python、Vue [➡]()~~
 
